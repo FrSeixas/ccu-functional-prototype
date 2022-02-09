@@ -6,6 +6,8 @@
 
 -It is meant to be run on an Android device
 
+-Frontend implementation can be found at https://github.com/MisterPac123/CCU_functioning_prototype (discontinued due to problems regarding the merge with backend services)
+
 ## Implementation
 
 -The methods implemented allow for a user to vote in a poll and create a new poll
