@@ -1,12 +1,12 @@
 # ccu-functional-prototype
 
-##Notes
+## Notes
 
 -This project was developed with flutter for frontend and firebase was used for backend
 
 -It is meant to be run on an Android device
 
-##Implementation
+## Implementation
 
 -The methods implemented allow for a user to vote in a poll and create a new poll
 
