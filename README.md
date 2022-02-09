@@ -6,7 +6,7 @@
 
 -It is meant to be run on an Android device
 
--Frontend implementation can be found at https://github.com/MisterPac123/CCU_functioning_prototype (discontinued due to problems regarding the merge with backend services)
+-Frontend implementation in detail can be found at https://github.com/MisterPac123/CCU_functioning_prototype (discontinued due to problems regarding the merge with backend services)
 
 ## Implementation
 
