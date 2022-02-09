@@ -1,0 +1,4 @@
+#Tue Feb 08 19:10:15 GMT 2022
+base.0=D\:\\IST\\CCU\\CCU_functioning_prototype\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

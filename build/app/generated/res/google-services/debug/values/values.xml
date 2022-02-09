@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">418699789350-mol9p2langtmk8btqto6g3jocf7shvd9.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">418699789350</string>
+    <string name="google_api_key" translatable="false">AIzaSyA4V8Kj9YTY1tP_jDPcCt1Xv3gAYCz4xUU</string>
+    <string name="google_app_id" translatable="false">1:418699789350:android:12f4b1d40c7bb82475d2e7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA4V8Kj9YTY1tP_jDPcCt1Xv3gAYCz4xUU</string>
+    <string name="google_storage_bucket" translatable="false">ccu-prototype.appspot.com</string>
+    <string name="project_id" translatable="false">ccu-prototype</string>
+</resources>

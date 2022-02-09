@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "418699789350",
+    "firebase_url": "https://ccu-prototype-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ccu-prototype",
+    "storage_bucket": "ccu-prototype.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418699789350:android:12f4b1d40c7bb82475d2e7",
+        "android_client_info": {
+          "package_name": "ccu.com.ccu_proj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418699789350-mol9p2langtmk8btqto6g3jocf7shvd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4V8Kj9YTY1tP_jDPcCt1Xv3gAYCz4xUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418699789350-mol9p2langtmk8btqto6g3jocf7shvd9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "418699789350-vkoc793uulbrs2spcl720fq88qh5h96g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ccu.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
